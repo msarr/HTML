@@ -1,0 +1,42 @@
+body{
+   background-color: cornflowerblue;
+}
+
+.Hello{
+    text-align: center;
+    font-size: 30px;
+    color: brown;
+    font-family: fantasy;
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+
+li{
+    text-decoration: none;
+    display: inline-block;
+    padding: 30px 30px 30px 30px;
+    background-color:blanchedalmond;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+    
+
+.header1{
+    color:red;
+}
+
+.pic{
+    float: right;
+    margin-right: 200px;
+}
+
+.php{
+   float: right;
+}
+
+p{
+    font-size: 20px;
+}
